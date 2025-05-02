@@ -1,0 +1,204 @@
+Uri: http://agkbuild.tilda.ws/
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\index-1.htm
+Content Type: text/html
+
+Uri: https://agkbuild.tilda.ws/
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-cards-1.0.min.css
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\css\tilda-cards-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.info/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-cards-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-cards-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-map-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-map-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/tild3137-6166-4937-a366-653664316636/-/resizeb/20x/51ao3mnj14steinarengeland.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3137-6166-4937-a366-653664316636\-\resizeb\20x\51ao3mnj14steinarengeland.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3230-3464-4163-a263-623165613161/docdoc_brown.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3230-3464-4163-a263-623165613161\docdoc_brown.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild3233-3330-4131-a339-323835393431/-/resizeb/20x/13.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3233-3330-4131-a339-323835393431\-\resizeb\20x\13.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3239-3562-4336-b663-336239333135/-/resizeb/20x/6.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3239-3562-4336-b663-336239333135\-\resizeb\20x\6.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3435-6262-4166-a631-363863303562/3_Y01.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3435-6262-4166-a631-363863303562\3_Y01.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild3465-3937-4166-a531-643335643662/221g.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3465-3937-4166-a531-643335643662\221g.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild3632-6435-4136-b736-373862636164/-/resize/20x/1_1.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3632-6435-4136-b736-373862636164\-\resize\20x\1_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3664-6634-4166-b835-363065373365/-/resizeb/20x/3.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3664-6634-4166-b835-363065373365\-\resizeb\20x\3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3836-6433-4532-b662-366432356665/441g.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3836-6433-4532-b662-366432356665\441g.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild3965-3031-4438-b738-353931653366/-/resizeb/20x/zjesqhdd39iemilevictorportenart.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3965-3031-4438-b738-353931653366\-\resizeb\20x\zjesqhdd39iemilevictorportenart.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3966-3837-4535-a334-326635323361/2_Y01.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild3966-3837-4535-a334-326635323361\2_Y01.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild6166-6238-4462-b434-353338363861/551g.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6166-6238-4462-b434-353338363861\551g.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild6230-3865-4462-b630-623536353632/-/resizeb/20x/9.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6230-3865-4462-b630-623536353632\-\resizeb\20x\9.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6234-6465-4230-a364-363461653164/-/resizeb/20x/5.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6234-6465-4230-a364-363461653164\-\resizeb\20x\5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6262-6233-4936-b733-396564303036/331g.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6262-6233-4936-b733-396564303036\331g.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild6333-6238-4561-a165-353932303566/-/resizeb/20x/7.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6333-6238-4561-a165-353932303566\-\resizeb\20x\7.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6435-6264-4539-a233-313038323165/-/resizeb/20x/3.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6435-6264-4539-a233-313038323165\-\resizeb\20x\3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6439-3634-4762-b565-376332613331/-/empty/pngArtboard1.png
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6439-3634-4762-b565-376332613331\-\empty\pngArtboard1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6466-3362-4164-b062-343532343164/661g.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6466-3362-4164-b062-343532343164\661g.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild6538-6538-4237-b461-323261623335/1_Y_svgz.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6538-6538-4237-b461-323261623335\1_Y_svgz.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild6566-3234-4531-a438-326166376630/docdoc_brown.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6566-3234-4531-a438-326166376630\docdoc_brown.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild6633-6663-4162-b663-313139386661/111g.svg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6633-6663-4162-b663-313139386661\111g.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild6634-6661-4437-b066-353230303561/-/resizeb/20x/playgroundfunsunlight1.jpg
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\tild6634-6661-4437-b066-353230303561\-\resizeb\20x\playgroundfunsunlight1.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/ws/project13147329/tilda-blocks-page68137897.min.css?t=1746207909
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\ws\project13147329\tilda-blocks-page68137897.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/ws/project13147329/tilda-blocks-page68137897.min.js?t=1746207909
+File Name: C:\Downloaded Web Sites\agkbuild.tilda.ws\ws\project13147329\tilda-blocks-page68137897.min.js
+Content Type: application/javascript
+
